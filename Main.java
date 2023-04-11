@@ -167,7 +167,7 @@ class Main {
       }
     } while (numSolutions < 2);
 
-    // Print the output
+    // Print the output now
     if (numSolutions == 0) {
       System.out.println("No solution found!");
     } else if (numSolutions == 1) {
